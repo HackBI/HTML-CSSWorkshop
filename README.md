@@ -22,7 +22,10 @@ Learn HTML syntax in a hands-on way by adding basic elements to a webpage.
     
 ## Resources for Further Learning
 HTML/CSS Documentation: developer.mozilla.org/en-US/docs/Web  – *lists all tags and selectors*
+
 HTML/CSS Tutorials & Guides: developer.mozilla.org/en-US/docs/Learn – *beginner to intermediate hands-on guides*
+
 Web Technologies Reference: developers.google.com/web/fundamentals – *explains modern web design*
+
 
 If you have any additional questions, find me or contact me on Discord @maxdodson#4372
